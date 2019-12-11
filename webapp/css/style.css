@@ -1,0 +1,8 @@
+:root {
+  --bg: white;
+  --bg-text: black;
+}
+.myEditor .ace_editor.ace-tomorrow{
+  background-color: var(--bg);
+  color: var(--bg-text);
+}
